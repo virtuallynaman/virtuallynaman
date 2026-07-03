@@ -14,10 +14,11 @@ I enjoy building clean, reliable web applications.
   Tech: Node.js, Express.js, PostgreSQL, React
 
 ### Tech Stack:
-- Languages: Java, JavaScript (ES6+), C  
-- Backend: Node.js, Express.js, PostgreSQL, MongoDB
-- Frontend: React, Tailwind CSS
-- Tools: Git, Linux, Docker, AWS, Vitest
+- Languages: JavaScript, TypeScript, Java
+- Backend: Node.js, Express.js, RESTful APIs, JWT Authentication
+- Databases: PostgreSQL, MongoDB
+- Frontend: React, Tailwind CSS, HTML, CSS
+- Tools: Git, GitHub, Docker, Linux
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanjha/)
